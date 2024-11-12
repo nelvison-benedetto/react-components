@@ -1,5 +1,7 @@
 export default function AppHeader() {
     return (
-        <h1>React Components</h1>
+        <header>
+            <h1>React Components</h1>
+        </header>
     );
 }
