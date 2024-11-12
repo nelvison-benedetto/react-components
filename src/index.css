@@ -27,3 +27,7 @@ img {
 .c-gray2 {
   background-color: var(--gray2);
 }
+
+.c-yellow1 {
+  background-color: var(--yellow1);
+}

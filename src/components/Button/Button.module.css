@@ -1,0 +1,12 @@
+@import '../../index.css'; /* import module x base colors  */
+
+.btn_card {
+    padding: 0.5rem 0.6rem;
+    background-color: var(--yellow1);
+    border-radius: 0.4rem;
+    &:hover {
+        background-color: rgb(94, 182, 62);
+        color: white;
+    }
+}
+
